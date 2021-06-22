@@ -1,0 +1,59 @@
+MainguiL:https("Github.com/Hold12Rl/Roblox-Gui-Code/new/main/Github")
+FireAllServers()
+
+-- Updater For Public Stuff
+
+LocalFindScript:createNew(Folder)
+
+Folder.name = "ConnectProject"
+
+ConnectProject:Lua(Unkown File)
+
+-- Or ConnectProject:Lua(https)
+
+connectProject:https(github.com/Hold12Rl/Roblox-Gui-Code/) -- But it will Do a error
+Then do 
+  connectProject(https://) -- Allows Https:// To work
+  connectProject(http://)  -- Allows http:// to work!
+end)
+
+print("connecting To ConnectProject") -- its not Connecting Just Yet
+
+-- So lets Add Some Connecters
+
+LocalFindScript:createNew(Folder)
+
+Folder.name = "ProjectConnect"
+
+ProjectConnect:Lua(Unkown Connecter)
+
+-- So It gonna be like this Lets Fix this up
+ProjectConnect:lua(Connecters V1)
+Then do 
+ ConnectersValue(1)
+ ConnectersProxy(2)
+end)
+-- And Were Done Lets Just Add More stuff and will be Good!
+
+ConnectersValue:Connect(ConnectProject)
+then do
+  ConnectersProxy:Connect(connectProject) -- It will give us a error now!
+  ConnectersProxy:Connect(ConnectersValue) -- And lets Do some more
+end)
+
+-- last Part
+
+Create:folder
+
+Folder.name = "Updater"
+
+Updater.Connect:(ConnectersProxy)
+Updater.connect:(connectersValue)
+then do
+  Values = "(1) (2)"
+end)
+
+--Opps
+
+
+updater:FireServer -- And Done
